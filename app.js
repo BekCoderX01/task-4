@@ -1,0 +1,22 @@
+// Promise = Vada
+
+//Setimeout;
+
+//setInterval;
+//////////////////////////////////////////////////
+// const promise = Promise.resolve();
+// console.log(promise);
+
+// //////////////////////////////////////////////////
+// const promise = Promise.reject();
+// console.log(promise);
+///////////////////////////////////////////////////////
+// const promise = Promise.reject("Man mk ga bordm");
+// promise.then((data) => {
+//   console.log(data);
+// });
+// promise.catch(() => {});
+// promise.finally(() => {});
+/////////////////////////////////////////////////////////
+
+const promise = fetch();
